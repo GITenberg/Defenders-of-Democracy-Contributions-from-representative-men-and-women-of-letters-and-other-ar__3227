@@ -1,0 +1,26 @@
+_repo: Defenders-of-Democracy-Contributions-from-representative-men-and-women-of-letters-and-other-ar__3227
+creator:
+  author:
+    agent_name: Militia of Mercy (U.S.). Gift Book Committee
+    alias: Gift Book Committee of The Militia of Mercy
+    gutenberg_agent_id: '1137'
+    url: http://www.gutenberg.org/2009/agents/1137
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2002-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3227'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'Gift books'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'World War, 1914-1918 -- Gift books'
+title: "Defenders of Democracy\r\nContributions from representative men and women\
+  \ of letters and other arts from our allies and our own country, edited by the Gift\
+  \ book committee of the Militia of Mercy"
+url: http://www.gutenberg.org/ebooks/3227
