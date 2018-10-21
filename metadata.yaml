@@ -1,5 +1,5 @@
 _repo: Defenders-of-Democracy-Contributions-from-representative-men-and-women-of-letters-and-other-ar__3227
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,6 +26,7 @@ subjects:
 - !lcsh 'Gift books'
 - !lcsh 'World War, 1914-1918'
 - !lcsh 'World War, 1914-1918 -- Gift books'
+- GITenberg
 title: "Defenders of Democracy\r\nContributions from representative men and women\
   \ of letters and other arts from our allies and our own country, edited by the Gift\
   \ book committee of the Militia of Mercy"
